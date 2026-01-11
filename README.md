@@ -35,6 +35,13 @@ Atualmente, estou focado em aprimorar meus conhecimentos em **Algoritmos**, **Es
 **Banco de Dados:**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+**Ferramentas:**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 ---
 
 ### 🏆 Projetos em Destaque
@@ -55,18 +62,10 @@ Atualmente, estou focado em aprimorar meus conhecimentos em **Algoritmos**, **Es
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Heitor-C-S&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitor-C-S&layout=compact&theme=dracula"/>
-</div>
-
----
-
 ### 📫 Contato
 
 Estou aberto a propostas de estágio e colaborações em projetos Open Source.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heitor-santana-9019a6289/)](https://www.linkedin.com/in/heitor-santana-9019a6289/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heitorcsantana.1811@gmail.com)](mailto:heitorcsantana.1811@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/heitorquak_/)](https://www.instagram.com/heitorquak_/)
