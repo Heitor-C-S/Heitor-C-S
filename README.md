@@ -9,7 +9,7 @@ Atualmente, estou focado em aprimorar meus conhecimentos em **Algoritmos**, **Es
 ### 🚀 Sobre mim
 
 - 🎓 **Educação:** Graduando em Ciência da Computação (desde 2023).
-- 🔭 **Atualmente trabalhando em:** Projetos pessoais de automação e aplicações web (como um *Typing Tutor* e o app *GoodNight*).
+- 🔭 **Atualmente trabalhando em:** Projetos pessoais de automação e aplicações web.
 - 🌱 **Aprendendo:** Aprofundando em **InfoSec**, **QA** e análise assintótica de algoritmos.
 - ⚙️ **Ferramenta favorita:** Usuário ávido de **Neovim** (LazyVim) para produtividade máxima.
 - 🏓 **Fun Fact:** Entusiasta de Tênis de Mesa (sempre ajustando meu setup de borrachas e madeira!).
@@ -22,13 +22,36 @@ Atualmente, estou focado em aprimorar meus conhecimentos em **Algoritmos**, **Es
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Frameworks & Libs:**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Banco de Dados:**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🏆 Projetos em Destaque
+
+**Pessoais**
+- **[GoodNight](https://github.com/Heitor-C-S/GoodNight)**
+  Aplicação desktop em Python para agendar o desligamento/suspensão do sistema de forma prática.
+
+- **[Typing Speed Test](https://github.com/Heitor-C-S/Typing-Speed-Test)**
+  Um treinador de digitação moderno construído com Next.js e Tailwind CSS.
+
+**Acadêmicos & Colaborações**
+- **[LeiaMais](https://github.com/Gabrielgsw/LeiaMais)**
+  Projeto universitário desenvolvido em grupo.
+
+- **[Automotive Consortium Database](https://github.com/emanuelrodrigues2005/Automotive-Consortium-Database)**
+  Projeto desenvolvido para a disciplina de Banco de Dados, focando na modelagem e implementação SQL.
 
 ---
 
